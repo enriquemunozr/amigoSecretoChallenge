@@ -9,3 +9,4 @@ Primero: Ingresa a la pagina web
 
 ![{34E2905F-C912-4272-BD1B-54EAB314A669}](https://github.com/user-attachments/assets/3ee5d7cc-324a-4a7a-b277-09557c76d383)
 
+Segundo: En el cuadro de texto, Haz click para poder ingresar cuantos amigos 
